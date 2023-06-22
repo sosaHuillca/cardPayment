@@ -1,0 +1,35 @@
+body{
+  background: #cfd9fa;
+}
+.card{
+  background: white;
+}
+
+.card p{
+  color: #979eaf;
+}
+.plan{
+  background: #f7f8fd;
+}
+.plan span{
+  color: #8991a6;
+}
+
+.card>button{
+  color:#79829d;
+}
+.card>button.cta{
+  background: #382ae1;
+  color: white;
+}
+.plan div{
+  color: #1e2435;
+}
+.card h3{
+
+  color: #000b29;
+}
+
+.plan>a{
+  color: #4336bc;
+}
